@@ -293,8 +293,9 @@ figure {
         #chris-hero .flexslider .slider-text > .slider-text-inner h1, #chris-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: black;
-          font-family: "Playfair Display", Georgia, serif; }
+          color: white;
+          font-family: "Playfair Display", Georgia, serif;
+          }
         #chris-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
           font-size: 60px;
@@ -332,9 +333,10 @@ figure {
           border: none;
           font-weight: 400; }
           #chris-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
-            color: #000;
-            border: 1px solid #000;
-            background: transparent !important; }
+            color: #fff;
+            border: 1px solid #fff;
+            background: transparent !important;
+            }
             #chris-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
               border: 1px solid #000 !important; }
