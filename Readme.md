@@ -1,3 +1,1 @@
-Hello
-This is my portfolio
-nwabuokei-tega1.github.io/Chris/
+https://nwabuokei-tega1.github.io/Chris/
